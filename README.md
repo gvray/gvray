@@ -24,8 +24,8 @@
 
 ## Maintained Projects
 
-- [react-umi-admin](https://github.com/gvray/react-umi-admin) - Enterprise React + Umi + Ant Design RBAC Admin Dashboard
-- [nest-admin](https://github.com/gvray/nest-admin) - Enterprise Admin API & Permission System built with NestJS + Prisma + MySQL
+- [gvray-react](https://github.com/gvray/gvray-react) - Enterprise React + Umi + Ant Design RBAC Admin Dashboard
+- [gvray-admin](https://github.com/gvray/gvray-admin) - Enterprise Admin API & Permission System built with NestJS + Prisma + MySQL
 - [request](https://github.com/gvray/request) - Unified request standard and wrapper for Web & cross-platform apps
 - [storetify](https://github.com/gvray/storetify) - Easier localStorage state management utility
 - [toolkit](https://github.com/gvray/toolkit) - TypeScript-friendly modular utility library (domkit, eskit, etc.)
