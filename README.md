@@ -31,6 +31,7 @@
 - [toolkit](https://github.com/gvray/toolkit) - TypeScript-friendly modular utility library (domkit, eskit, etc.)
 - [lavy](https://github.com/gvray/lavy) - CodeLint CLI for engineering standards and workflow enforcement
 - [swiftlet](https://github.com/gvray/swiftlet) - Build tool experiments for modern Web development
+- [logger](https://github.com/gvray/logger) - High-performance TypeScript logger with colorful output, transports, and extensible formatters
 
 ## Connect
 
